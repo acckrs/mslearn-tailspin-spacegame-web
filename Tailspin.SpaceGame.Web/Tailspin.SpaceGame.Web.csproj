@@ -6,8 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
-    <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0-CI-20200125-202249" />
-
+      <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="3.0.0-CI-20200125-211557">
   </ItemGroup>
 
   <ItemGroup>
